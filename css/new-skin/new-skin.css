@@ -894,9 +894,9 @@ input[type="file"] {
 
 .content.contacts .info-list ul li {
 	padding: 11px 30px;
-	display: inline-block;
+	/*display: inline-block;*/
 	vertical-align: top;
-	width: 100%;
+	/*width: 100%;*/
 }
 
 .info-list ul li:first-child {
