@@ -697,7 +697,7 @@ input[type="file"] {
 .card-started .profile .subtitle, 
 .card-started .profile .typed-cursor {
 	position: relative;
-	margin: 0;
+	margin: 10;
 	display: inline-block;
 	color: #78cc6d;
 	font-size: 16px;
